@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# npm
+npm-debug.log
+
+# ignore public builds
+public/*
+
+# Keep the rest
+!public/src
+!public/index.html
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# osx
+.DS_Store
